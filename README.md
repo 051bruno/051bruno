@@ -1,18 +1,18 @@
-# 👋 Olá, eu sou Bruno Bueno
+# 👋 About Me
 
-## Full Stack Developer | .NET | Software Architecture
+Hi, I'm **Bruno Bueno** 🇧🇷
 
-Desenvolvedor Full Stack focado em criar aplicações escaláveis, com experiência em sistemas corporativos, SaaS e automação de processos.
+I'm a **Full-Stack Developer** focused on building scalable applications, with experience developing **ERP systems and SaaS platforms**.
 
-Atualmente trabalho desenvolvendo soluções para a indústria moveleira, envolvendo **otimização de nesting, geração de GCode e integração com processos de produção**.
+I've been working with software development using **C#, .NET, Angular, Blazor, TypeScript, and SQL**, applying concepts like **Domain-Driven Design (DDD), Clean Architecture, and software engineering best practices**.
 
-Tenho interesse em arquitetura de software, qualidade de código e construção de sistemas sustentáveis a longo prazo.
+Currently, I work on solutions for the **furniture industry**, developing systems related to **nesting optimization, CNC automation, and production workflows**.
 
 ---
 
-## 🚀 Stack Principal
+## 🚀 Tech Stack
 
-### Backend
+### 💻 Backend
 
 - C#
 - .NET 8
@@ -22,89 +22,99 @@ Tenho interesse em arquitetura de software, qualidade de código e construção 
 - SQL Server
 - REST APIs
 - Domain-Driven Design (DDD)
-- Clean Architecture
+- Clean / Hexagonal Architecture
 
-### Frontend
+### 🌐 Frontend
 
 - Blazor
 - Angular
 - TypeScript
 - JavaScript
-- HTML / CSS / SCSS
+- HTML5
+- CSS / SCSS
 - Bootstrap
 - MudBlazor
 
----
+### ⚙️ DevOps & Tools
 
-## 🛠️ Ferramentas
-
-- Git / GitHub
-- Rider
-- Visual Studio Code
+- Git & GitHub
 - Docker
 - CI/CD
+- Rider
+- Visual Studio Code
 - Grafana
-- Azure
-- AWS
+- Azure (learning)
+- AWS (learning)
 
 ---
 
-## 📚 Atualmente estudando
+## 🧩 Professional Experience
 
-- React
-- Next.js
+### 🚀 Full-Stack Developer
+
+Working on SaaS solutions focused on:
+
+- Nesting optimization algorithms
+- CNC machine integration
+- GCode generation
+- Production management workflows
+- Enterprise software architecture
+
+Previously worked developing ERP modules involving:
+
+- Contracts management
+- Accounting systems
+- Business process automation
+
+---
+
+## 🌱 Currently Learning
+
+I'm constantly improving my knowledge in:
+
+- React & Next.js
 - Node.js
-- Cloud Architecture
+- Cloud architecture
 - Kubernetes
-- Observabilidade
-- Arquitetura distribuída
+- Infrastructure as Code
+- Distributed systems
+- Advanced .NET patterns
 
 ---
 
-## 💼 Experiência
+## 🧠 Interests
 
-### Rhex Automação — Full Stack Developer
+Besides programming, I enjoy learning about:
 
-Desenvolvimento de uma plataforma SaaS voltada para automação industrial:
-
-- Otimização de corte de materiais (Nesting)
-- Geração de arquivos CNC/GCode
-- Modelagem de domínio com DDD
-- Evolução de arquitetura backend/frontend
-
-### SISPRO — Full Stack Developer
-
-Desenvolvimento de módulos ERP:
-
-- Gestão de contratos
-- Processos contábeis
-- Sistemas corporativos
+- 📚 Software architecture and engineering practices
+- 🏛️ Philosophy, especially Stoicism and classical thinkers
+- 🧩 Problem solving and logical reasoning
+- ⚙️ Low-level concepts and how systems work
+- 🌎 Technology trends and innovation
 
 ---
 
-## 🧠 Além do código
+## 📖 Philosophy
 
-Tenho interesse por:
+> "You have power over your mind — not outside events. Realize this, and you will find strength."
 
-- 📖 Filosofia e estoicismo
-- 🏛️ História antiga
-- 🧩 Resolução de problemas
-- ⚙️ Como sistemas funcionam internamente
+— Marcus Aurelius
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Communities & Profiles
 
-[Adicionar cards do GitHub Stats]
-
----
-
-## 📫 Contato
-
-LinkedIn: [seu link]
-
-Email: [seu email]
+- GitHub: `@BrunoBueno`
+- LinkedIn: `Bruno Bueno`
 
 ---
 
-> "A qualidade de um software é reflexo das decisões tomadas durante sua construção."
+## ✉️ Contact Me
+
+Feel free to reach out:
+
+📧 Email: `your-email@example.com`
+
+---
+
+⭐ Always learning, building, and improving.
