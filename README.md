@@ -75,35 +75,6 @@ Atualmente trabalho com soluções voltadas para a indústria moveleira, envolve
 
 ---
 
-## 💼 Experience
-
-
-### 🚀 Rhex Automação
-
-**Full Stack Developer**
-
-Desenvolvimento de uma plataforma SaaS para automação industrial:
-
-- Nesting optimization
-- CNC workflows
-- GCode generation
-- Domain modeling
-- Backend architecture
-
-
-### 🏢 SISPRO
-
-**Full Stack Developer**
-
-Desenvolvimento de módulos ERP:
-
-- Gestão de contratos
-- Processos contábeis
-- Sistemas corporativos
-
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
