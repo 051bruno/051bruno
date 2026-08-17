@@ -92,10 +92,3 @@ Além de programação, gosto de estudar:
 🏛️ História antiga  
 ⚙️ Como sistemas funcionam internamente  
 🧩 Resolução de problemas  
-
-
----
-
-<h3 align="center">
-💜 Constância, qualidade e evolução contínua.
-</h3>
